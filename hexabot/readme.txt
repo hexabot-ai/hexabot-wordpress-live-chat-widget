@@ -3,7 +3,7 @@ Contributors: Hexastack
 Tags: ai chatbot, conversational ai, chat widget, customer support, automation
 Requires at least: 5.6
 Tested up to: 6.6
-Stable tag: 3.2.2
+Stable tag: 3.2.3
 Requires PHP: 7.4
 License: AGPLv3
 License URI: https://www.gnu.org/licenses/agpl-3.0.html
@@ -115,6 +115,9 @@ https://docs.hexabot.ai/faq/how-can-i-add-the-chat-widget-to-my-website
 - Community: https://community.hexabot.ai
 
 == Changelog ==
+
+= 3.2.3 =
+* Update bundled widget assets to @hexabot-ai/widget 3.2.3.
 
 = 3.2.2 =
 * Add Hexabot v3 Source Ref support for Web Source integration.

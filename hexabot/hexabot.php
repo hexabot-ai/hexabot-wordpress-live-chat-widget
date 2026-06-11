@@ -2,7 +2,7 @@
 /*
 Plugin Name: Hexabot Chat Widget
 Description: Embed Hexabot chat widget into WordPress.
-Version: 3.2.2
+Version: 3.2.3
 Author: Hexastack
 License: AGPLv3
 */
@@ -11,7 +11,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 }
 
 // Define plugin version for cache busting
-define( 'HEXABOT_CHAT_WIDGET_VERSION', '3.2.2' );
+define( 'HEXABOT_CHAT_WIDGET_VERSION', '3.2.3' );
 
 function hexabot_chat_widget_sanitize_color( $value ) {
     $value = sanitize_text_field( $value );
